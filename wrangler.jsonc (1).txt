@@ -1,0 +1,12 @@
+{
+  "name": "broadcastuser",
+  "main": "worker.js",
+  "compatibility_date": "2026-01-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "broadcast",
+      "database_id": "ea5cb947-aa27-4a62-a7a8-cf5b4fe75581"
+    }
+  ]
+}
